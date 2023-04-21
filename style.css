@@ -333,3 +333,7 @@ body{
   .contact-container .address-container div, .contact-container .address-container p {
     font-size: 0.85em;
   }
+  section{
+    margin-left: 20%;
+    margin-right: 10%;
+  }
